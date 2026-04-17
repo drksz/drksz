@@ -9,8 +9,8 @@ I'm a **Computer Science student** with a passion for turning raw numbers into d
 - 🎓 Currently pursuing a degree in **Computer Science**
 - 📊 Specialty: **Data Analytics & Data Science**
 - 🤖 Enthusiast of **Machine Learning & Artificial Intelligence**
-- 🤔 Problem Encountered? Curious Mode On!
-- 🎮 Loves gaming
+- 🤔 Problem(s) Encountered? **Curiosity Level: Set to High!**
+- 🎮 Loves **gaming**
 
 ---
 
