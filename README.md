@@ -39,7 +39,7 @@ I'm a **Computer Science student** with a passion for turning raw numbers into d
 
 ## 🚀 Projects
 
-### 🏦 Bank Customer Segmentation
+### 🏦 [Bank Customer Segmentation](https://github.com/drksz/bank-customer-segmentation)
 > Analyzed and segmented bank customers using data analytics techniques to uncover behavioral patterns and meaningful customer groups.
 
 ---
